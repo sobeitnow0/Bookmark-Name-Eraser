@@ -6,3 +6,7 @@ This extension is useful for individuals who prefer a minimalist approach to boo
 
 How users can get started with the project:
 To get started, users can simply install the "Bookmarks Name Eraser" extension from the Chrome Web Store. Once installed, they can click on the extension's icon in the browser to erase the names of all their bookmarks instantly.
+
+From: ![Captura de tela de 2024-07-16 11-03-33.png]
+
+To: ![Captura de tela de 2024-07-16 11-03-53.png]
