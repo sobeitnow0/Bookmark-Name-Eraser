@@ -1,5 +1,5 @@
 What the project does:
-The "Bookmarks Name Eraser" extension is a Google Chrome tool that allows users to remove the names of all their bookmarks with a single click. It provides a streamlined and clutter-free bookmark list, enhancing the browsing experience.
+The "Bookmarks Name Eraser" extension is a Google Chrome Extention that allows users to remove the names of all their bookmarks with a single click. It provides a streamlined and clutter-free bookmark list, enhancing the browsing experience.
 
 Why the project is useful:
 This extension is useful for individuals who prefer a minimalist approach to bookmark organization. By removing bookmark names, users can focus on the essential URLs and create a clean and visually appealing bookmark collection.
